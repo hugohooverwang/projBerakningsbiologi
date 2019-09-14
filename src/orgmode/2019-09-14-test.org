@@ -1,0 +1,6 @@
+#+TITLE:test
+#+OPTIONS: toc:nil
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+
+* this is a test
