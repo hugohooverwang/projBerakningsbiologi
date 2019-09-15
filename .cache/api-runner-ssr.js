@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/Users/aphrodite/HoardMimirsHolt/Projekt/cytoTherapies/cart/node_modules/_gatsby-plugin-react-helmet@3.1.7@gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/aphrodite/HoardMimirsHolt/Projekt/projBerakningsBiologi/node_modules/_gatsby-plugin-react-helmet@3.1.7@gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/aphrodite/HoardMimirsHolt/Projekt/cytoTherapies/cart/node_modules/_gatsby-plugin-manifest@2.2.16@gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/aphrodite/HoardMimirsHolt/Projekt/projBerakningsBiologi/node_modules/_gatsby-plugin-manifest@2.2.16@gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#FF4F00","theme_color":"#FF4F00","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

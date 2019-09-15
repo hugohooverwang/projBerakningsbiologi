@@ -1,4 +1,4 @@
 module.exports = [{
-      plugin: require('/Users/aphrodite/HoardMimirsHolt/Projekt/cytoTherapies/cart/gatsby-browser.js'),
+      plugin: require('/Users/aphrodite/HoardMimirsHolt/Projekt/projBerakningsBiologi/gatsby-browser.js'),
       options: {"plugins":[]},
     }]

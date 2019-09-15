@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `HugosAnteckningar `,
+    title: `Beräkningsbiologi(计算生物学)`,
     description: `Jag är Hugo, I majored in molecular biology and clinical laboratory medicine. And I am fascinated by algorithm-based data analysis. `,
     author: `hugoHooverWang`,
   },
